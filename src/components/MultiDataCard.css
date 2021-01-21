@@ -1,0 +1,21 @@
+.multi-card {
+    display: flex;
+    text-align: center;
+    width: 80vw;
+    height: 15vh;
+    margin: auto;
+    background: rgb(40,40,40);
+    border-radius: 15px;
+    border: 1px solid rgb(0, 153, 15);
+    border: 1px solid rgb(0, 230, 230);
+    animation: fadeIn ease 3s;
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity:0;
+    }
+    100% {
+        opacity:1;
+    }
+}

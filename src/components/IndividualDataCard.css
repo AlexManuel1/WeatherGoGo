@@ -1,0 +1,17 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    padding: 1em;
+    width: auto;    
+    height: auto;
+}
+
+
+.degrees {
+    font-size: 2em;
+}
+
+.time {
+    font-size: 1em;
+}
