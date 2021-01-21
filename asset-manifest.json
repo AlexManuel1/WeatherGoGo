@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/WeatherGoGo/static/css/main.006d2ac6.chunk.css",
+    "main.js": "/WeatherGoGo/static/js/main.9e6c8031.chunk.js",
+    "main.js.map": "/WeatherGoGo/static/js/main.9e6c8031.chunk.js.map",
+    "runtime-main.js": "/WeatherGoGo/static/js/runtime-main.883766d3.js",
+    "runtime-main.js.map": "/WeatherGoGo/static/js/runtime-main.883766d3.js.map",
+    "static/js/2.ec51d2df.chunk.js": "/WeatherGoGo/static/js/2.ec51d2df.chunk.js",
+    "static/js/2.ec51d2df.chunk.js.map": "/WeatherGoGo/static/js/2.ec51d2df.chunk.js.map",
+    "index.html": "/WeatherGoGo/index.html",
+    "static/css/main.006d2ac6.chunk.css.map": "/WeatherGoGo/static/css/main.006d2ac6.chunk.css.map",
+    "static/js/2.ec51d2df.chunk.js.LICENSE.txt": "/WeatherGoGo/static/js/2.ec51d2df.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.883766d3.js",
+    "static/js/2.ec51d2df.chunk.js",
+    "static/css/main.006d2ac6.chunk.css",
+    "static/js/main.9e6c8031.chunk.js"
+  ]
+}
