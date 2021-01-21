@@ -18,7 +18,7 @@ class SearchBar extends React.Component {
                 <form onSubmit={event => this.onFormSubmit(event)}>
                     <input 
                         className="user-input"
-                        placeholder="Enter city or zipcode" 
+                        placeholder="Enter city" 
                         type="text"
                         onChange={(e) => this.setState({term: e.target.value})}
                         value={this.state.term}
